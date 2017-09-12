@@ -1,0 +1,13 @@
+
+.carousel-inner > .item > img {
+    line-height: 1;
+    width: 100%;
+    padding-bottom: 10px;
+}
+
+.logotext{
+
+    color: cornflowerblue;
+    padding: 1%;
+    font-family: serif;
+}

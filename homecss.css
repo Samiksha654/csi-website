@@ -1,0 +1,55 @@
+.homedo{
+	    color: cornflowerblue;
+        font-size: 30px;
+        margin-top: 6%;
+}
+
+.homefac{
+     
+        color: cornflowerblue;
+        font-size: 25px;
+            padding-bottom: 16px;
+                margin-top: 11%;
+
+}
+
+.name1{
+
+    padding-right: 117px;
+    color: brown;
+}
+
+.namedes {
+	
+    font-size: 16px;
+}
+
+.spaceimg{
+	margin-bottom: 25px;
+}
+
+.spacetxt{
+	margin-bottom: 70px;
+}
+
+.events{
+        border-style: outset;
+    padding: 28px;
+}
+
+.prevent:hover{
+
+    color: cornflowerblue;
+
+
+}
+
+.date{
+    COLOR: brown;
+}
+
+.eventname{
+    FONT-FAMILY: sans-serif;
+    COLOR: cadetblue;
+    FONT-SIZE: 145%;
+}
